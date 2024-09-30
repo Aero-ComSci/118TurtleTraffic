@@ -17,6 +17,11 @@
 
 ## How does the code work? Give examples of the methods used to obtain the expected results.
 
+## What improvements did you make. Please highlight code below.
+```
+
+```
+
 ## Questions about the Activity as you work. 
 ```
 
