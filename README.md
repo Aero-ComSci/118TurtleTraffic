@@ -1,4 +1,5 @@
-# Activity x.x.x
+# Activity 1.1.8
+# Name
 
 
 * Utilize this read me to showcase the project.
@@ -12,17 +13,14 @@
 
 
 
-### [Book Link](https://pltw.read.inkling.com/a/b/71ce293152cf4873b7395f3d59c64a57/p/34fcafaa509d40dcae30604ef2033cdc)
+### [Book Link](https://pltw.read.inkling.com/a/b/5310c007377c46e28d745961310f0c2e/p/68a4ea7ed96b4176bfedb4e6d5d41a13#97ab355236b04ffbb47b488d9103e232)
 
+## How does the code work? Give examples of the methods used to obtain the expected results.
 
 ## Questions about the Activity as you work. 
 ```
 
 ```
-#### Description Of The App according to User Story
 
-```
-
-```
 
 ## For Regrades use the Feedback and @baeztheprog on your commit messages.
